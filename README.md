@@ -322,19 +322,6 @@ Implemented Tests
 
 ---
 
-# Future Improvements
-
-- Authentication & Authorization
-- Pagination
-- Search functionality
-- Export to Excel/PDF
-- Docker support
-- CI/CD pipeline
-- Logging
-- Global Exception Handling
-
----
-
 # Author
 
 **Onkar Nagargoje**
