@@ -2,6 +2,11 @@
 
 A full-stack web application to manage test runs, built as part of a technical assignment.
 
+
+## Demo Video
+https://drive.google.com/file/d/1iqTC5dAKhLMHylsOa20MAjMVvGH6O6yn/view?usp=sharing
+
+
 ## 📌 Objective
 
 The application allows users to:
