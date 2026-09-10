@@ -1,6 +1,0 @@
-@TestRunManagement_HostAddress = http://localhost:5191
-
-GET {{TestRunManagement_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
